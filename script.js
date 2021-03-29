@@ -1,5 +1,5 @@
-let camera, scene, renderer;
-let geometry, material, mesh;
+let camera, scene, renderer
+let geometry, material, mesh
 
 init()
 
